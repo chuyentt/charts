@@ -1,3 +1,7 @@
+# 0.12.1
+* upgraded --major-versions
+* add web support
+
 # 0.12.0
 * Add functions to draw horizontal or vertical links onto the dart charts web canvas.
 * Add "preserveSelection" functionality to InitialSelection chart Behavior.

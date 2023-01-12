@@ -1,7 +1,7 @@
 name: example
 description: Charts-Flutter Demo
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.18.6 <3.0.0'
   flutter: '>=2.5.0'
 
 dependencies:
@@ -13,6 +13,5 @@ dependencies:
   flutter_test:
     sdk: flutter
   meta: ^1.1.1
-  intl: ">=0.15.2 < 0.18.0"
 flutter:
   uses-material-design: true
